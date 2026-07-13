@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702825180785",
+    "project_id": "alu-hub-2a873",
+    "storage_bucket": "alu-hub-2a873.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702825180785:android:64bbf2336233787b76f5d0",
+        "android_client_info": {
+          "package_name": "com.aluhub.alu_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUD8LVYuncniE5YIkjTh2IshOdGSpUK9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
